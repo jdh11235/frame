@@ -7,7 +7,7 @@
     "url": "https://github.com/jdh11235/frame"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.12.1",
