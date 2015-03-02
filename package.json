@@ -1,0 +1,14 @@
+{
+	"name": "frame",
+	"version": "0.0.1",
+	"description": "An adaptive procedural multiplayer open-world game experiment!",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jdh11235/frame"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+	}
+}
